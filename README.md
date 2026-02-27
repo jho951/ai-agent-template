@@ -1,6 +1,7 @@
 # 프로젝트 템플릿 저장소
 
 이 저장소와 포함 템플릿은 Apache License 2.0로 공개됩니다. 자세한 내용은 [LICENSE](./LICENSE)를 확인하세요.
+오픈소스 공개/운영 세부 절차는 [docs/oss/README.md](./docs/oss/README.md)를 확인하세요.
 
 이 저장소는 `4가지 타입`과 `3단계 성숙도` 템플릿을 제공합니다.
 
